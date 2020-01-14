@@ -12,7 +12,6 @@ cout << " Digite la nota: "; cin >> array[i];
 for(int = 0; i < 20; i++){
     cout << "Nota " << (i + 1) << ":\t";
 }
-//?
-
+//???
     return 0;
 }

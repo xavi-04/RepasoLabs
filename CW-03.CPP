@@ -26,3 +26,4 @@ void printLetters(char* printArray, int size){
         cout << "Letra: " << printArray[i] <<endl;
     }
 }
+//???
