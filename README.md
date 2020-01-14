@@ -1,2 +1,2 @@
 # RepasoLabs
-Repositorio de los repaso de los laboratorios 
+Repositorio de los repasos de los laboratorios 
